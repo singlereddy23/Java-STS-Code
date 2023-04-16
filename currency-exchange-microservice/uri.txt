@@ -1,0 +1,6 @@
+http://localhost:8000/currency-exchange/from/AUD/to/INR
+
+Response structure
+
+{"id":1000,"from":"USD","to":"INR","conversionMultiple":50}
+
