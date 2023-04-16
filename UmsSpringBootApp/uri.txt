@@ -1,0 +1,17 @@
+HTTP GET METHOD:
+-------------------------------
+http://localhost:8082/userapi/greet
+http://localhost:8082/userapi/users
+http://localhost:8082/userapi/listusers
+
+
+HTTP POST METHOD:
+---------------------------------
+http://localhost:8082/userapi/users
+{
+	"id": 103
+	"name": "SINGLE"
+	"email": "SINGLEREDDY23@GMAIL.COM"
+}
+
+http://localhost:8082/crudapi/users
