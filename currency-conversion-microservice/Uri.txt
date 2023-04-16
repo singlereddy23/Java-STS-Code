@@ -1,0 +1,13 @@
+http://localhost:8100/currency-conversion/from/USD/to/INR/quantity/10
+Response Data
+{
+	"id": 1000,
+	"from": "USD",
+	"to": "INR",
+	"quantity": 10,
+	"conversionMultiple": 65,
+	"totalCalculatedAmount": 650,
+	"env": "8000"
+}
+
+http://localhost:8100/currency-conversion-feign/from/USD/to/INR/quantity/10
